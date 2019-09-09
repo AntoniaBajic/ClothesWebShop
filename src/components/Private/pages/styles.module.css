@@ -1,0 +1,14 @@
+
+.LoginForm {
+  display: flex;
+  flex-direction: column;
+  justify-items: stretch;
+  max-width: 400px;
+  margin: 2rem auto;
+  background-color: white;
+  border-radius: 4px;
+  padding: 2rem;
+  
+}
+
+

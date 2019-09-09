@@ -1,0 +1,8 @@
+.Post > * {
+  padding: 1.5rem 0;
+}
+
+.Post > p {
+  padding: 0;
+}
+

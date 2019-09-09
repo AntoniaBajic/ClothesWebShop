@@ -1,0 +1,36 @@
+.Carousel {
+  width: 420px;
+  height: 256px;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.Carousel > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--color-gatsby);
+  font-size: 1.25rem;
+  font-weight: 400;
+  width: 100%;
+  height: 100%;
+  background: var(--color-gatsby-light);
+}
+
+.ResponsiveSmall {
+  display: none;
+}
+
+@media only screen and (max-width: 750px) {
+  .Carousel {
+    padding: 0;
+  }
+
+  .ResponsiveSmall {
+    display: block;
+  }
+
+  .ResponsiveNormal {
+    display: none;
+  }
+}

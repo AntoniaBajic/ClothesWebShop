@@ -1,0 +1,32 @@
+.LoginForm {
+  display: flex;
+  flex-direction: column;
+  justify-items: stretch;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.LoginForm__input {
+  outline: none;
+  border: solid 1px var(#551010);
+}
+
+.LoginForm__input:focus {
+  border-color: var(--color-gatsby);
+}
+
+.LoginForm__button,
+.LoginForm__input {
+  padding: 0.5em;
+  font-size: inherit;
+  margin-top: 0.5rem;
+}
+
+.LoginForm__button {
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+

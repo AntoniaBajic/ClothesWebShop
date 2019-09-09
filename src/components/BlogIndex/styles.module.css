@@ -1,0 +1,13 @@
+.Post {
+  padding-top: 2.5rem;
+}
+
+.Excerpt {
+  padding: 0.5rem 0;
+}
+
+.Date {
+  font-weight: 400;
+  color: var(--color-dark-grey, #000);
+}
+
