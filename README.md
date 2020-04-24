@@ -1,5 +1,4 @@
-# Netlify test
+# ClothesWebShop
 
-https://fesb-test.netlify.com
-
-Example site that is connected to this GitHub repository. Netlify will re-build and re-deploy the site whenever we push to this GitHub repository (check [here](https://www.gatsbyjs.org/docs/deploying-to-netlify/) for more info).
+This is a  responsive fontend web application bulit using React and Gatsby.
+It is app to buy clothes that includes authentication, blog, clothes, shopping bag and wish items.
