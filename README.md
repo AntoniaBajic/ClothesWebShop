@@ -5,6 +5,6 @@ It is an app to buy clothes that includes authentication, blog, clothes, shoppin
 
 ### You can view site at link:
 ```
-
+[clothesWebShop](https://clotheswebshop.netlify.app)
 ```
- [clothesWebShop](https://clotheswebshop.netlify.app)
+ 
