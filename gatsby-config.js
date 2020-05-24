@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby@FESB",
+    title: "Clothes Web Shop",
     description:
       "Find out how to build modern, fast and secure web applications.",
-    author: "MC@FESB"
+    author: "Antonia Bajic"
   },
 
   plugins: [
